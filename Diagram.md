@@ -9,7 +9,6 @@ graph TD;
 ~~~
 
 
-[Link](.#welcome-to-the-test-wiki)
 ```mermaid
 gantt
         dateFormat  YYYY-MM-DD
@@ -27,4 +26,5 @@ gantt
         Create tests for renderer           :2d
         Add to mermaid                      :1d
 ```
-[Link](wiki#welcome-to-the-test-wiki)
+
+[Home](/Home)
