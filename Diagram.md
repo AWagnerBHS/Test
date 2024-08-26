@@ -27,4 +27,4 @@ gantt
         Add to mermaid                      :1d
 ```
 
-[Home](/Home)
+[Home](/Home.md)
